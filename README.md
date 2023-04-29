@@ -35,6 +35,7 @@
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=Php)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=Laravel)&nbsp;
 
 
 
